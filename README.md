@@ -1,6 +1,6 @@
 # Decoding Pandemic Patterns
 
-This project involves a comprehensive analysis of the *COVID-19 dataset from John Hopkins University*. The dataset includes data from 198 countries and regions from January 22, 2020, to April 16, 2022. The goal of this project was to analyze and visualize the progression of the COVID-19 pandemic across different countries.
+This project involves a comprehensive analysis of the COVID-19 dataset from John Hopkins University. The dataset includes data from 198 countries and regions from January 22, 2020, to the present. The analysis includes data preprocessing, exploratory data analysis (EDA), data visualization, and hypothesis testing.
 
 ## Key Steps
 - **Data Preprocessing**: Handled missing values and merged data for countries with multiple regions to provide a single **time-series** for each country.
