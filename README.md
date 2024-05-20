@@ -5,12 +5,16 @@ This project involves a comprehensive analysis of the COVID-19 dataset from John
 ## Key Steps
 - **Data Preprocessing**: Handled missing values and merged data for countries with multiple regions to provide a single **time-series** for each country.
 - **Exploratory Data Analysis (EDA)**: Identified trends and patterns in the progression of the pandemic, visualizing the data using Python libraries such as **pandas** and **matplotlib**.
+- **Data Wrangling**: **Merged and cleaned multiple datasets** to provide a comprehensive view of the situation, demonstrating strong data wrangling skills.
+- **Statistical Analysis and Hypothesis Testing**: Tested the hypothesis that the spread of the virus is slowed down by warm weather. Analyzed the correlation between the monthly number of confirmed cases and the average monthly temperature for selected countries using statistical methods.
 - **Investigation of Confirmed Cases and Deaths**: Analyzed the number of confirmed cases and deaths in each country over time.
 
 ## Tools and Libraries Used
 - Python
 - Pandas
 - Matplotlib
+- Seaborn
+- JSON
 - Jupyter Notebook
 
 ## Few Results
